@@ -1,2 +1,2 @@
 # typst-local-packages
-Typst Packages/Templates
+Typst Packages/Templates made by me
